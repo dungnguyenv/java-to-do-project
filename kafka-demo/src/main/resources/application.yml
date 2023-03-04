@@ -1,0 +1,18 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+spring:
+  application:
+    name: kafka-demo
+
+  kafka:
+    bootstrap-servers: localhost:29092
+    consumer:
+      client-id: consumer-client-01
+      group-id: consumer-group-01
+
+    topics:
+      class-topic: class-topic
+      room-topic:  room-topic
