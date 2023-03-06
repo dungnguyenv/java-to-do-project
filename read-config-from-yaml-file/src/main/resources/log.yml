@@ -1,0 +1,9 @@
+log:
+  serviceFirst:
+    INSERT: Thêm mới data {}
+    DELETE: Xóa data {}
+    UPDATE: Cập nhật data {}
+  serviceSecond:
+    INSERT: Thêm mới data {}
+    DELETE: Xóa data {}
+    UPDATE: Cập nhật data {}

@@ -1,0 +1,26 @@
+server:
+  servlet:
+    context-path: /api
+  port: 8080
+
+
+spring:
+  sql:
+    init:
+      schema-locations: classpath:db/quartz_tables_h2.sql
+
+  h2:
+    console:
+      enabled: true
+
+  datasource:
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password:
+
+
+logging:
+  level:
+    org:
+      hibernate:
+        SQL: debug

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dungnguyen:maven-dependency-demo:0.0.1-DEMO">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dungnguyen/maven-dependency-demo/0.0.1-DEMO/maven-dependency-demo-0.0.1-DEMO.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dungnguyen/maven-dependency-demo/0.0.1-DEMO/maven-dependency-demo-0.0.1-DEMO-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dungnguyen/maven-dependency-demo/0.0.1-DEMO/maven-dependency-demo-0.0.1-DEMO-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
