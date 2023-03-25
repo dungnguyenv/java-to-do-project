@@ -1,0 +1,20 @@
+server:
+  port: 8000
+
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 20MB
+
+  url: http://localhost:8000/
+
+
+#minio
+minio:
+  bucket:
+    name: minio-example-demo
+  access:
+    key: jrHfVKh1kxsUdoid
+    secret: oad2FfGDLi8DEoBCfU3daQxVFLHrzzgz
+  url: http://localhost:9000/

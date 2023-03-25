@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="read-microsoft-excel" target="11" />
+      <module name="read-microsoft-excel" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d5338d6-4c7e-4962-b5ab-6eeca0114fc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../read-config-from-yaml-file/src/main/java/com/dungnguyen/readconfigfromyamlfile/ActionEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../read-config-from-yaml-file/src/main/java/com/dungnguyen/readconfigfromyamlfile/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../read-config-from-yaml-file/src/main/java/com/dungnguyen/readconfigfromyamlfile/MyAppProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../read-config-from-yaml-file/src/main/java/com/dungnguyen/readconfigfromyamlfile/YamlPropertySourceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../read-config-from-yaml-file/src/main/resources/log.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dungnguyen/readmicrosoftexcel/Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dungnguyen/readmicrosoftexcel/ExcelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dungnguyen/readmicrosoftexcel/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-to-do-project" beforeDir="false" afterPath="$PROJECT_DIR$/../java-to-do-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-to-do-project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read-microsoft-excel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/read-microsoft-excel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +70,9 @@
       <updated>1678003083358</updated>
       <workItem from="1678003084522" duration="6801000" />
       <workItem from="1678071089581" duration="2188000" />
+      <workItem from="1678086942379" duration="162000" />
+      <workItem from="1678089193613" duration="132000" />
+      <workItem from="1678259307119" duration="131000" />
     </task>
     <servers />
   </component>
